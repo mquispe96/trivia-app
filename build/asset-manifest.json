@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/API-Calls-with-Fetch_MQ/static/css/main.51a4a4f3.css",
+    "main.js": "/API-Calls-with-Fetch_MQ/static/js/main.377a3256.js",
+    "index.html": "/API-Calls-with-Fetch_MQ/index.html",
+    "main.51a4a4f3.css.map": "/API-Calls-with-Fetch_MQ/static/css/main.51a4a4f3.css.map",
+    "main.377a3256.js.map": "/API-Calls-with-Fetch_MQ/static/js/main.377a3256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51a4a4f3.css",
+    "static/js/main.377a3256.js"
+  ]
+}
